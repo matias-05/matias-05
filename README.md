@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, me llamo Matías Fernandez</h1>
+<h1 align="center">Hola 👋, soy Matías Fernandez</h1>
 
 <br>
 
