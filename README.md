@@ -7,9 +7,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones con el lenguaje Java. <br>Y por otro lado tambien estoy incursionando en el aprendizaje del desarrollo web.
+- 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones con el lenguaje Java. Y por otro lado tambien me estoy incursionando en el aprendizaje del desarrollo web.
   
-- 🎓 Estudiante de la Tecnicatura Universitaria en Programación (U.T.N) y la carrera de Desarrollo Front-End React (Coder House).
+- 🎓 Estudiante de la Tecnicatura Universitaria en Programación (U.T.N) y de la carrera en Desarrollo Front-End React (Coder House).
 
 - 📫 Linkedin: **https://www.linkedin.com/in/mat%C3%ADas-fernandez-331656325/**
 
