@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones con el lenguaje Java. Y por otro lado tambien me estoy incursionando en el aprendizaje del desarrollo web.
+- 🌱 Actualmente me encuentro en el aprendizaje de las tecnologías Java y React.
   
 - 🎓 Estudiante de la Tecnicatura Universitaria en Programación (U.T.N) y de la carrera en Desarrollo Front-End React (Coder House).
 
