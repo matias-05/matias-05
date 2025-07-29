@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-- 🌱 Actualmente me encuentro en el aprendizaje de las tecnologías Java y React.
+- 🌱 Actualmente me encuentro en el aprendizaje de las tecnologías React y ASP.NET MVC.
   
 - 🎓 Estudiante de la Tecnicatura Universitaria en Programación (U.T.N) y de la carrera en Desarrollo Front-End React (Coder House).
 
