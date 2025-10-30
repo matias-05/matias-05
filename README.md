@@ -7,14 +7,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-- 🌱 Actualmente me encuentro en el aprendizaje de la tecnología React.
-  
 - 🎓 Estudiante de la Tecnicatura Universitaria en Programación (U.T.N) y de la carrera en Desarrollo Front-End React (Coder House).
 
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/mat%C3%ADas-fernandez-331656325/">Matías Fernandez</a>
-
-
-<br> <br> <br> <br> <br> <br> <br> <br>
 
 ## 🛠️ Mis Habilidades
 
