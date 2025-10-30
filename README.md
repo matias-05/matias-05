@@ -9,6 +9,8 @@
 
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/mat%C3%ADas-fernandez-331656325/">Matías Fernandez</a>
 
+<br>
+
 ## 🛠️ Mis Habilidades
 
 ### 👨‍💻 Back End y Front End
